@@ -7,3 +7,4 @@
 # Ignorar archivos privados de configuración de NetBeans
 /web_netbeans24/nbproject/private/private.properties
 /web_netbeans24/nbproject/private/private.xml
+/web_netbeans24/nbproject/private/
